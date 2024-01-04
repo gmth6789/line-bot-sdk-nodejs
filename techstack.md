@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/line-bot-sdk-nodejs is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -16,11 +17,13 @@ gmth6789/line-bot-sdk-nodejs is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/line-bot-sdk-nodejs is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -35,14 +38,15 @@ gmth6789/line-bot-sdk-nodejs is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/line-bot-sdk-nodejs](https://github.com/gmth6789/line-bot-sdk-nodejs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|11/09/23 <br/>Report generated|
+|29<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -187,9 +191,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (13)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -202,6 +206,7 @@ Full tech stack [here](/techstack.md)
 |[file-type](https://www.npmjs.com/file-type)|v15.0.1|09/18/20|xingo xu |MIT|[CVE-2022-36313](https://github.com/advisories/GHSA-mhxj-85r3-2x55) (High)|
 |[finalhandler](https://www.npmjs.com/finalhandler)|v1.1.2|08/28/19|xingo xu |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v3.0.0|09/18/20|xingo xu |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|09/11/20|xingo xu |MIT|N/A|
 |[nock](https://www.npmjs.com/nock)|v13.0.4|09/11/20|xingo xu |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v12.0.2|05/10/17|Hyunje Jun |ISC|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|12/21/20|lauslim12 |ISC|N/A|
@@ -210,4 +215,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
