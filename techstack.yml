@@ -2,7 +2,7 @@ repo_name: gmth6789/line-bot-sdk-nodejs
 report_id: b11e2844d81d15220c7b0ef96770c9ba
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:21:09+00:00'
+timestamp: '2024-02-29T18:07:45+00:00'
 requested_by: louis70109
 provider: github
 branch: next
@@ -98,7 +98,7 @@ tools:
   last_updated_by: xingo xu
   last_updated_on: 2020-09-11 03:09:29.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.13.7
   license: MIT
